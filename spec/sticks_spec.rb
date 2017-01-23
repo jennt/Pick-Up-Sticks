@@ -1,1 +1,1 @@
-require 'sticks'
+# require 'sticks'
