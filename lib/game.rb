@@ -19,7 +19,6 @@ class Game
   def pick_up_sticks(sticks)
     @sticks = sticks
     @current_sticks -= sticks
-    # if @current_sticks < 1
   end
 
   def game_over?(current_sticks)
